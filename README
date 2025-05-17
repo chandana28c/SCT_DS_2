@@ -1,0 +1,33 @@
+# Titanic Dataset - Exploratory Data Analysis (EDA)
+
+This project performs data cleaning and exploratory data analysis (EDA) on the **Titanic dataset**. It visualizes relationships between features such as survival rate, age, class, fare, and embarkation port.
+
+---
+
+## 📊 Project Overview
+
+The goal is to analyze patterns and trends in the Titanic dataset to understand which factors contributed to survival.
+
+### Key Objectives:
+- Clean missing and inconsistent data
+- Explore relationships between variables
+- Visualize trends using seaborn and matplotlib
+- Save all charts as PNG files
+
+---
+
+## 📁 Dataset
+
+Download the Titanic dataset from Kaggle:  
+🔗 [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)
+
+Place the downloaded `titanic.csv` file in the same directory as the script.
+
+---
+
+## 🛠️ Requirements
+
+Install the required Python libraries:
+
+```bash
+pip install pandas seaborn matplotlib
